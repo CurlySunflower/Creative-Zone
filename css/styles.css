@@ -1,0 +1,212 @@
+body {
+  background-image: url(https://i.pinimg.com/564x/f1/c4/e7/f1c4e726caf8aeaddddbd1d9502d6e08.jpg);
+  background-position: left;
+}
+
+.head {
+  height: 65px;
+  width: 60%;
+  margin-left: 250px;
+  background-color: black;
+  border-style: solid;
+  border-color: #f0ae2c;
+  border-right-width: 3px;
+  border-left-width: 3px;
+  border-top-width: 3px;
+  border-bottom-width: 0;
+}
+
+.head1 {
+  color: #eadea6;
+  font-style: oblique;
+  font-weight: 100;
+  font-family: serif;
+
+  height: 20px;
+  width: 100%;
+  margin-top: 2px;
+  background-position: top;
+}
+
+/*Header end zone*/
+.main {
+  height: 230px;
+  width: 97%;
+  margin-left: 20px;
+  background-color: black;
+  border-style: solid;
+  border-color: #f0ae2c;
+  border-width: 3px;
+}
+
+.div1, .div2, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12 {
+  ;
+  background-color: none;
+  height: 200px;
+  width: 8%;
+  padding: 0;
+  margin-top: 10px;
+  background-position: center;
+  float: left;
+  background-repeat: no-repeat
+}
+
+.div1 {
+  margin-left: 27px;
+  background-image: url(https://i.pinimg.com/564x/cc/8d/c9/cc8dc94d7486ca2ce202c53e28a8901e.jpg);
+  background-size: contain;
+}
+
+.div1:hover {
+  background-image: url(https://i.pinimg.com/474x/a6/e4/44/a6e4443e148e918b48cd77220cdd0bcc.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div2 {
+  background-image: url(https://i.pinimg.com/564x/5d/f5/9f/5df59fa2878fb630282f00d62f43476d.jpg);
+  background-size: contain;
+  background-position: center;
+}
+
+.div2:hover {
+  background-image: url(https://i.pinimg.com/564x/50/c2/d9/50c2d90524dff99af629047b7541fff1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div3 {
+  background-image: url(https://i.pinimg.com/564x/10/7c/e4/107ce4480f7e8d554f89a5171a6175e3.jpg);
+  background-size: contain;
+}
+
+.div3:hover {
+  background-image: url(https://i.pinimg.com/474x/c4/2c/b0/c42cb05bf19dc02be03aefc966363b70.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div4 {
+  background-image: url(https://i.pinimg.com/564x/75/32/aa/7532aa14ec704309001c46527313c9fe.jpg);
+  background-size: contain;
+}
+
+.div4:hover {
+  background-image: url(https://i.pinimg.com/474x/8f/52/59/8f5259442f432043549d663e849568d7.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div5 {
+  background-image: url(https://i.pinimg.com/564x/d1/fb/62/d1fb62e5c80fc91ca89d6ee617978b5d.jpg);
+  background-size: contain;
+}
+
+.div5:hover {
+  background-image: url(https://i.pinimg.com/474x/15/d4/0c/15d40cf5730d24d1cc49fd03cc855dc0.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div6 {
+  background-image: url(https://i.pinimg.com/474x/06/32/be/0632be2c91e734a372f91d8a4e2b2829.jpg);
+  background-size: contain;
+}
+
+.div6:hover {
+  background-image: url(https://i.pinimg.com/474x/c5/1b/67/c51b67fb962e4bf4fe356f39e76dfd8e.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div7 {
+  background-image: url(https://i.pinimg.com/474x/b6/2e/bb/b62ebb854775a0305f16285561df42f4.jpg);
+  background-size: contain;
+}
+
+.div7:hover {
+  background-image: url(https://i.pinimg.com/564x/1e/bd/86/1ebd86e182eeaec27ab815932d166596.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div8 {
+  background-image: url(https://i.pinimg.com/564x/bc/c4/fb/bcc4fb6aa68f3fb1cbcdac5299557a5e.jpg);
+  background-size: contain;
+}
+
+.div8:hover {
+  background-image: url(https://i.pinimg.com/474x/bc/73/8e/bc738e451dd84165d0cfcf9ad14c376a.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div9 {
+  background-image: url(https://i.pinimg.com/474x/46/8e/d2/468ed292038de204b7c5b55a0ee11ce2.jpg);
+  background-size: contain;
+}
+
+.div9:hover {
+  background-image: url(https://i.pinimg.com/474x/79/38/fc/7938fc351f2822e0bd49b5fdfaf34e9b.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div10 {
+  background-image: url(https://i.pinimg.com/474x/25/33/09/253309c31663a1c13aa3a7881334a146.jpg);
+  background-size: contain;
+}
+
+.div10:hover {
+  background-image: url(https://i.pinimg.com/564x/fe/92/13/fe92133ece3582a08a1f313f1a128abf.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div11 {
+  background-image: url(https://i.pinimg.com/474x/35/d1/21/35d121b63b74d34d176aec26333fa8bf.jpg);
+  background-size: contain;
+}
+
+.div11:hover {
+  background-image: url(https://i.pinimg.com/474x/38/fb/bb/38fbbb21819b03165ae7f05c0bcdbe4e.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.div12 {
+  margin-right: 20px;
+  background-image: url(https://i.pinimg.com/564x/de/3b/bb/de3bbb6946d83c87566412e519c07c9f.jpg);
+  background-size: contain;
+}
+
+.div12:hover {
+  background-image: url(https://i.pinimg.com/474x/7e/9e/95/7e9e9591aea62ede42b01514b731f2f1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.footer {
+  height: 45px;
+  width: 80%;
+  margin-left: 120px;
+  background-color: black;
+  border-style: solid;
+  border-color: #f0ae2c;
+  border-right-width: 3px;
+  border-left-width: 3px;
+  border-top-width: 1px;
+  border-bottom-width: 3px;
+}
+
+.footer1 {
+  background-image: url(https://image.shutterstock.com/image-vector/elegant-art-deco-vector-background-260nw-1443083939.jpg);
+  height: 40px;
+  width: 100%;
+  margin-top: 2px;
+  background-position: top;
+}
+
+/*
+upper area end point
+*/
