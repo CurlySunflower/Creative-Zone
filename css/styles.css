@@ -1,13 +1,16 @@
-body {
-  background-image: url(https://i.pinimg.com/564x/f1/c4/e7/f1c4e726caf8aeaddddbd1d9502d6e08.jpg);
-  background-position: left;
+body {  margin: 5px;
+  background-color: black;
 }
+
+.Box1{background-image:url(https://i.pinimg.com/564x/5b/23/20/5b2320b74f59e6e0c23365d0b6a23a21.jpg);
+background-position: top;
+height: 450px;}
 
 .head {
   height: 65px;
   width: 60%;
-  margin-left: 250px;
-  background-color: black;
+  margin: auto;
+    background-color: black;
   border-style: solid;
   border-color: #f0ae2c;
   border-right-width: 3px;
@@ -20,31 +23,30 @@ body {
   color: #eadea6;
   font-style: oblique;
   font-weight: 100;
-  font-family: serif;
 
+  font-family:"Century Gothic",serif;
   height: 20px;
   width: 100%;
-  margin-top: 2px;
+  margin: auto;
   background-position: top;
 }
 
-/*Header end zone*/
 .main {
   height: 230px;
-  width: 97%;
-  margin-left: 20px;
+  width: 95%;
+  margin: auto;
   background-color: black;
   border-style: solid;
   border-color: #f0ae2c;
   border-width: 3px;
 }
 
-.div1, .div2, .div2, .div3, .div4, .div5, .div6, .div7, .div8, .div9, .div10, .div11, .div12 {
+.div1, .div2, .div2, .div3, .div4, .div6, .div7, .div8, .div9, .div10, .div11, .div12 {
   ;
   background-color: none;
   height: 200px;
   width: 8%;
-  padding: 0;
+  padding-left: 10px;
   margin-top: 10px;
   background-position: center;
   float: left;
@@ -52,12 +54,12 @@ body {
 }
 
 .div1 {
-  margin-left: 27px;
-  background-image: url(https://i.pinimg.com/564x/cc/8d/c9/cc8dc94d7486ca2ce202c53e28a8901e.jpg);
+  padding-right: 10px;
+  background-image: url('image/girl.jpg');
   background-size: contain;
 }
 
-.div1:hover {
+.div1:hover {padding-right: 10px;
   background-image: url(https://i.pinimg.com/474x/a6/e4/44/a6e4443e148e918b48cd77220cdd0bcc.jpg);
   background-size: cover;
   background-position: center;
@@ -97,16 +99,7 @@ body {
   background-position: center;
 }
 
-.div5 {
-  background-image: url(https://i.pinimg.com/564x/d1/fb/62/d1fb62e5c80fc91ca89d6ee617978b5d.jpg);
-  background-size: contain;
-}
 
-.div5:hover {
-  background-image: url(https://i.pinimg.com/474x/15/d4/0c/15d40cf5730d24d1cc49fd03cc855dc0.jpg);
-  background-size: cover;
-  background-position: center;
-}
 
 .div6 {
   background-image: url(https://i.pinimg.com/474x/06/32/be/0632be2c91e734a372f91d8a4e2b2829.jpg);
@@ -174,13 +167,12 @@ body {
   background-position: center;
 }
 
-.div12 {
-  margin-right: 20px;
+.div12 {padding-right: 10px;
   background-image: url(https://i.pinimg.com/564x/de/3b/bb/de3bbb6946d83c87566412e519c07c9f.jpg);
   background-size: contain;
 }
 
-.div12:hover {
+.div12:hover {padding-right: 10px;
   background-image: url(https://i.pinimg.com/474x/7e/9e/95/7e9e9591aea62ede42b01514b731f2f1.jpg);
   background-size: cover;
   background-position: center;
@@ -189,7 +181,7 @@ body {
 .footer {
   height: 45px;
   width: 80%;
-  margin-left: 120px;
+  margin: auto;
   background-color: black;
   border-style: solid;
   border-color: #f0ae2c;
@@ -207,6 +199,11 @@ body {
   background-position: top;
 }
 
-/*
-upper area end point
-*/
+
+.practice{background-color: white;
+}
+
+.middle-container{Margin:auto}
+
+.skills,.profile{margin: auto;
+  width:50%;}
