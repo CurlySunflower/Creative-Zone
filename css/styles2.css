@@ -1,0 +1,64 @@
+body{background-color: #6f9a8d;}
+
+
+
+h1{font-family:'Dancing script',cursive;font-size: 70px;margin: 0;}
+p{font-family:'Luto',sans-serif;
+line-height: 1.5}
+h3{text-align: center;}
+
+
+
+.need-margin1{margin-right: 20px;}
+.need-margin2{margin-left: 20px;}
+
+#header{margin-left: 245px;font-size: 30px;}
+
+#profile{height: 100px;
+width: 100px;
+border-radius: 50%;
+display: inline-block;
+position:relative;
+left: 360px;
+bottom:100px;}
+
+.interests{text-align: center;font-family: 'Dancing Script',cursive;font-size: 50px;font-weight: lighter;
+color:#eafbea; margin:auto}
+
+
+
+
+
+/*body and below*/
+
+.body{background-image: url(http://eskipaper.com/images/field-sunflowers-girl-umbrella-anime-art-1.jpg);
+  background-size: cover;background-position:top;
+  width: 80%;height: 400px;background-color: white;margin: auto;text-align: center;
+  border-style: solid;
+  border-color: #1f6650;
+  border-width: 5px;
+}
+
+  .section{
+    margin: auto;
+    background-color: #eafbea
+    ;
+  border-style: solid;
+  border-color: #ea5e5e;
+    border-width: 5px;
+    width: 71%;
+    height: 240px;
+    }
+
+  .pic1{height: 150px;
+  width: 150px;
+  border-radius: 30%;float: left;
+margin: 40px 20px 30px 20px;}
+
+.pic2{height: 150px;
+width: 150px;
+border-radius: 30%;float: right;
+margin: 40px 20px 30px 20px;}
+
+.container{text-align: center;}
+.interest{background-color: black;height: 200px;width: 500px;display: inline-grid;}
