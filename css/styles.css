@@ -3,7 +3,7 @@ body {  margin:  15px;
   font-family: 'raleway',sans-serif;
 }
 h1{font-family: 'great vibes',cursive;
-color: #eadea6;
+color: #ccc1ff;
   font-weight: lighter;
   font-size: 40px;
   margin:15px 0 5px 0;
@@ -11,8 +11,8 @@ color: #eadea6;
 
 .Box1{background-image:url(https://i.pinimg.com/564x/5b/23/20/5b2320b74f59e6e0c23365d0b6a23a21.jpg);
 background-position: center;
-height: 500px;
-border-style: solid;border-width: 0 0 5px 0;
+height: 480px;
+border-style: solid;border-width: 0 0 0 0;
 border-color: #eadea6;}
 
 .button{margin: 10px;
@@ -26,7 +26,8 @@ text-decoration: none;
 font-size: 16px;}
 
 .disclaimer{position: relative;
-  margin-left: 890px;}
+  margin-left: 730px;}
+
 
 .head {
   height: 65px;
@@ -222,5 +223,8 @@ font-size: 16px;}
 
   .concept{ background-image:url(https://i.pinimg.com/474x/d4/14/a9/d414a9653623dad0b1bd0588d99dc617.jpg);
 background-position: top;background-size: contain;
-border-style: solid;border-width: 5px 0 0 0;
-border-color: silver;}
+border-style: solid;border-width: 0 0 0 0;
+border-color: silver;
+height: 850px}
+
+.body { background-color: black;height: 700px; width: 70%;color:silver;margin:auto;padding: 30px;line-height: 2;}
